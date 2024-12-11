@@ -1,4 +1,4 @@
-# zump8_v0_1_0_token_registry.aleo
+# zump8_v0_1_0.aleo
 
 ## Build Guide
 
